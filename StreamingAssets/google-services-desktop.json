@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "439335122306",
+    "firebase_url": "https://nommimusic-2024-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "nommimusic-2024",
+    "storage_bucket": "nommimusic-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439335122306:android:2ad029ec8c2abaf1b00b9b",
+        "android_client_info": {
+          "package_name": "com.NomiSistem.NommiMusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439335122306-ctkq9dhku0qqpoagdb8baht364lkb07c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.NomiSistem.NommiMusic",
+            "certificate_hash": "7534786f585d16b5fcec002de21900bcc7eae2af"
+          }
+        },
+        {
+          "client_id": "439335122306-cit1rm007hu0ako1jlierb2in2ihb52t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSiLP9LwCPCH3iNXL2yAVlerPitoPT064"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439335122306-cit1rm007hu0ako1jlierb2in2ihb52t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
